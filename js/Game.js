@@ -12,7 +12,7 @@ class Game {
     this.missed = 0;
     this.phrases = [
       new Phrase('the force is strong with this one'),
-      new Phrase('you were my brother, Anakin'),
+      new Phrase('you were my brother Anakin'),
       new Phrase('I find your lack of faith disturbing'),
       new Phrase('what is thy bidding my master'),
       new Phrase('I am the senate'),
